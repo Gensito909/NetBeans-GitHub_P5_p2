@@ -6,7 +6,7 @@
 /**
  *
  * @author Pablo
- * @version 10/5/2017
+ * @version 1.0
  * 
  */
 public class Circulo1 {
