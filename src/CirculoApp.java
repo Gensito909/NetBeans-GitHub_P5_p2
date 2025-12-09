@@ -10,5 +10,6 @@
 public class CirculoApp {
     public static void main (String[]args) {
         System.out.println("hola buenas tardes");
+        System.out.println("09/12/2025");
     }
 }
